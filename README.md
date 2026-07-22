@@ -48,9 +48,7 @@ See `docs/output_manifest.md` for the complete numbering map and filenames.
 
 ## Data privacy
 
-This repository must not contain person-level All of Us data. Only disclosure-safe aggregate outputs that have passed the applicable All of Us privacy checks should be committed. The `.gitignore` file blocks common person-level and intermediate data formats by default, but it does not replace manual disclosure review.
-
-Notebook outputs and execution counts are cleared in the distributed notebook. Assertions checking cohort structure, counts, score ranges, model rows, and disclosure thresholds have been retained.
+This notebook must be executed within an authorized All of Us Researcher Workbench environment. It contains no participant-level data or analytical outputs. Any results generated through execution must undergo All of Us disclosure review before export, publication, or distribution.
 
 ## Analysis order
 
