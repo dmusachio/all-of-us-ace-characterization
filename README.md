@@ -31,8 +31,6 @@ The complete analysis is organized as one top-to-bottom pipeline. This avoids pe
 5. Run `python scripts/validate_repository.py` from the repository root.
 6. Review every aggregate output against the applicable All of Us disclosure requirements before committing it.
 
-The billing project and CDR identifiers are intentionally retained in `src/config.py` so the current workspace can run the code. Remove or replace those workspace-specific identifiers before publishing the repository.
-
 ## Manuscript output inventory
 
 The pipeline generates:
