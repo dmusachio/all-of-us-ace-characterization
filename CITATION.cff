@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+title: "All of Us ACE Questionnaire Characterization"
+type: software
+authors:
+  - family-names: Musachio
+    given-names: Daniel
+  - family-names: Axinn
+    given-names: Amalia
+  - family-names: Hong
+    given-names: Suzi
+  - family-names: Curtius
+    given-names: Kit
+  - family-names: Maysent
+    given-names: Kathryn
+  - family-names: Perry
+    given-names: William
+  - family-names: Walsh
+    given-names: Colin G.
+  - family-names: Sitapati
+    given-names: Amy M.
+date-released: 2026-07-20
+license: MIT
+
